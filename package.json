@@ -22,13 +22,13 @@
         "name": "Ibrahim Ahmed",
         "email": "ibrahimtorbany.dev@gmail.com"
     },
-    "homepage": "https://github.com/Ibrahim-GHub/react-native-image-tools",
+    "homepage": "https://github.com/Ibrahim-GHub/react-native-adobe-creative-tools",
     "bugs": {
-        "url": "https://github.com/Ibrahim-GHub/react-native-image-tools/issues"
+        "url": "https://github.com/Ibrahim-GHub/react-native-adobe-creative-tools/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/Ibrahim-GHub/react-native-image-tools.git"
+        "url": "git://github.com/Ibrahim-GHub/react-native-adobe-creative-tools.git"
     },
     "license": "MIT"
 }
